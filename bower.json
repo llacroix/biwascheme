@@ -17,9 +17,9 @@
   },
   "main": "./release/node_biwascheme.js",
   "dependencies": {
-    "optparse": "1.0.3",
-    "underscore": "1.2.2",
-    "underscore.string": "2.0.0"
+    "optparse": ">= 1.0.3",
+    "underscore": ">= 1.2.2",
+    "underscore.string": ">= 2.0.0"
   },
   "bin": {
     "biwas": "./bin/biwas"
